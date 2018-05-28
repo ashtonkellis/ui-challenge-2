@@ -1,0 +1,14 @@
+select:nth-child(odd) {
+  background-color: grey;
+  color: red;
+}
+
+option:nth-of-type(even) {
+  background-color: red;
+  color: red;
+}
+
+option:nth-of-type(2n) {
+  background-color: red;
+  color: red;
+}
